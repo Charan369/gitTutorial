@@ -103,7 +103,7 @@ public class JavaTest {
         boolean flag = true;
         System.out.println(Boolean.TRUE);
         System.out.println(flag == Boolean.TRUE);
-        flag = false;
+        //flag = false;
         System.out.println(flag == Boolean.TRUE);
         System.out.println(flag == Boolean.FALSE);
 
