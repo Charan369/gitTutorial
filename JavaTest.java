@@ -40,6 +40,7 @@ public class JavaTest {
         sets.add(10);
         sets.add(9);
         sets.add(11);
+		  sets.add(12);
         sets.add(null);
         sets.removeAll(null);
         System.out.println(Collections.max(sets));
