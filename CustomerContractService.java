@@ -44,7 +44,7 @@ public class CustomerContractService {
         List<CustomerContractDTO> customerContractDTOs = new ArrayList<>();
 
         customerContractDTOs = getCustomerContracts(cusId, null);
-
+		{}
         return customerContractDTOs;
     }
 
